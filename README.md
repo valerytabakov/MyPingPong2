@@ -1,2 +1,2 @@
 # MyPingPong2
-# Ping-Pong game: worked version
+# Ping-Pong game: worked version.
